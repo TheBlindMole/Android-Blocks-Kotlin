@@ -1,0 +1,5 @@
+# O DroidBlocks Studio usa apenas a biblioteca padrao do Python (3.9+) com Tkinter.
+# Nenhum pacote externo e necessario para executar.
+#
+# Opcional, somente para gerar executaveis independentes (installer/build_executable.py):
+# pyinstaller>=6.0
