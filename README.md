@@ -151,12 +151,4 @@ installer/                  Instalador gráfico, build de executáveis e Inno Se
 tests/                      Testes do gerador
 ```
 
-## Testes
-
-```
-python tests/test_generator.py        # gera os 142 modelos nos dois modos e verifica a estrutura
-python tests/validate_generated.py    # valida recursos, IDs, bindings, rotas e chamadas nos projetos gerados
-```
-
-Licença MIT. O wrapper do Gradle incluído é distribuído sob a licença Apache 2.0.
 
