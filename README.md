@@ -160,3 +160,4 @@ python tests/validate_generated.py    # valida recursos, IDs, bindings, rotas e 
 
 Licença MIT. O wrapper do Gradle incluído é distribuído sob a licença Apache 2.0.
 # Android-Blocks-Kotlin
+# Android-Blocks-Kotlin
