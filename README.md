@@ -17,7 +17,7 @@ pronto para abrir no **Android Studio**.
   `strings.xml` com tradução, testes unitários e instrumentados.
 - Todo o código é comentado em português, sem emojis.
 
-## Novidades da versão 1.1
+## Versão 1.1
 
 - 12 blocos novos: carrossel, lista horizontal, seção expansível, tabela rótulo/valor, etapas, aviso colorido,
   dois botões lado a lado, assinatura, citação, etiquetas, preço com desconto e links sociais.
